@@ -43,6 +43,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
+                ////
+
                 //dialog = ProgressDialog.show(getApplicationContext(), "", "Uploading file...", true);
 
 
